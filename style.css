@@ -429,3 +429,7 @@ footer {
     height: 26vh; /* Height from bottom */
     margin: 1rem; /* Margin from the sides */
 }
+
+footer p {
+    text-align: center;
+}
